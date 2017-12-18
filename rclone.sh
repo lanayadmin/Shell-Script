@@ -4,7 +4,7 @@
 status_log="/var/log/rclone/rclone_status_"$(date +"%d%m%Y")".log"
 
 # time date stamp
-stamp() { echo $(date +"%d/%m/%Y %H:%M:%S"); }
+stamp() { echo $(date +"%d/%m/%Y %H:%M:%S") }
 
 # backup location from
 backup="/backup/vmbackup_glob"

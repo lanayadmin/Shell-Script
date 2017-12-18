@@ -1,1 +1,1 @@
-# systeminfo
+THIS IS MY SHELL SCRIPT
